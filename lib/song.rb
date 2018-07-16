@@ -56,5 +56,5 @@ puts ninety_nine_problems.name
 
 puts Song.artist_count
 puts Song.genre_count
- 
+ puts Song.count
  
